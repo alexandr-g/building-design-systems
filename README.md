@@ -2,9 +2,8 @@
 
 # ⭐🦄 Building Design Systems ✨🌈
 
-A collection of useful resources for building and maintaining a Design System.
-
 <p align="center">
+ A collection of useful resources for building and maintaining a Design System.
     <img src="https://cdn.dribbble.com/users/1790221/screenshots/6209514/design_system_for_bank_2x.png" />
 </p>
 
