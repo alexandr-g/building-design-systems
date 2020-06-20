@@ -16,7 +16,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 - [Microsoft - FluentUI](https://developer.microsoft.com/en-us/fluentui/#/controls/web)
 
-- [🗃Storybook](https://github.com/storybookjs/design-system)
+- [🗃 Storybook](https://github.com/storybookjs/design-system)
 
 - [Airbnb - lunar](https://github.com/airbnb/lunar)
 
