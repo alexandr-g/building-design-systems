@@ -48,6 +48,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 #### Testing
 
 - [chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.
+- [percy](https://percy.io/) - visual testing. Your all-in-one visual review platform.
 
 ### Contributing
 
