@@ -1,4 +1,4 @@
-# Building Design Systems
+# ⭐🦄 Building Design Systems ✨🌈
 
 A collection of useful resources for building and maintaining a Design System.
 
