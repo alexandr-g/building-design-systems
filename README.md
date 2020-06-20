@@ -4,6 +4,8 @@
 
 A collection of useful resources for building and maintaining a Design System.
 
+<img src="https://cdn.dribbble.com/users/1790221/screenshots/6209514/design_system_for_bank_2x.png" />
+
 _☝ Note that this list is meant to be used for learning and researching purposes and is not complete._
 
 ## Contents
