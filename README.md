@@ -1,6 +1,6 @@
-# ⭐🦄 Building Design Systems ✨🌈
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+# ⭐🦄 Building Design Systems ✨🌈
 
 A collection of useful resources for building and maintaining a Design System.
 
@@ -40,7 +40,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 ### Contributing
 
-PRs are welcome. I love finding new awesome resources that would shed light on the topic of Design Systems. Create a PR if you think something is worth to share.
+PRs are welcome. I love finding new awesome resources that would shed light on the topic of Design Systems. Create a PR if you think something is worth sharing.
 
 A few **qualities** that are appealing the most for me when adding resources:
 
