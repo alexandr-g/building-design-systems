@@ -15,6 +15,8 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 - [Courses](#courses)
 - [Examples](#examples)
 - [Guides](#guides)
+- [Tools](#tools)
+  - [Testing](#testing)
 - [Contributing](#contributing)
 
 ### Articles
@@ -40,6 +42,12 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 ### Guides
 
 - [Design Systems for Developers by Learn Storybook](https://www.learnstorybook.com/design-systems-for-developers/)
+
+### Tools
+
+#### Testing
+
+- [chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.
 
 ### Contributing
 
