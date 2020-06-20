@@ -35,3 +35,16 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 ## Guides
 
 - [Design Systems for Developers by Learn Storybook](https://www.learnstorybook.com/design-systems-for-developers/)
+
+## Contributing
+
+PRs are welcome. I love finding new awesome resources that would shed light on the topic of Design Systems. Create a PR if you think something is worth to share.
+
+A few **qualities** that are appealing the most for me when adding resources:
+
+1. Quality - should be well written
+2. Current - be up to date
+
+## Thank you
+
+I hope this list was helpful for you 🖤
