@@ -4,6 +4,14 @@ A collection of useful resources for building and maintaining a Design System.
 
 _☝ Note that this list is meant to be used for learning and researching purposes and is not complete._
 
+## Contents
+
+- [Articles](#articles)
+- [Courses](#courses)
+- [Examples](#examples)
+- [Guides](#guides)
+- [Contributing](#contributing)
+
 ## Articles
 
 - [Introducing Storybook Design System](https://medium.com/storybookjs/introducing-storybook-design-system-23fd9b1ac3c0)
