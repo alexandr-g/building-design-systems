@@ -45,6 +45,10 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 ### Tools
 
+#### Interactive Style guide
+
+- [React Styleguidist](https://github.com/styleguidist/react-styleguidist) - is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.
+
 #### Testing
 
 - [chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.
