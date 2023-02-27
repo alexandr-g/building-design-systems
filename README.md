@@ -23,6 +23,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 ### Articles
 
 - [Introducing Storybook Design System](https://medium.com/storybookjs/introducing-storybook-design-system-23fd9b1ac3c0)
+- [[Storybook] How to setup visual regression tests with Loki](https://grischuk.de/posts/storybook-visual-regressions-tests-with-loki )
 
 ### Courses
 
@@ -53,10 +54,11 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 - [React Styleguidist](https://github.com/styleguidist/react-styleguidist) - is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.
 
-#### Testing
+#### Visual Regression Testing ("VRT")
 
-- [chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.
-- [percy](https://percy.io/) - visual testing. Your all-in-one visual review platform.
+- [Chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work
+- [Percy](https://percy.io/) - all-in-one visual review platform
+- [Loki](https://loki.js.org/) - visual regression testing for Storybook;
 
 ### Contributing
 
@@ -65,7 +67,7 @@ PRs are welcome. I love finding new awesome resources that would shed light on t
 A few **qualities** that are appealing the most for me when adding resources:
 
 1. Quality - should be well written
-2. Current - be up to date
+2. Be up to date
 
 ### Thank you
 
