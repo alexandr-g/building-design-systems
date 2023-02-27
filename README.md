@@ -63,6 +63,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 - [A11y](https://a11yproject.com/) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 - [[Chrome Extension] WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+- [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 ### Contributing
 
