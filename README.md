@@ -52,11 +52,17 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 - [Ladle](https://ladle.dev/) - develop and test your **React** stories faster
 
-#### Visual Regression Testing ("VRT")
+### Visual Regression Testing ("VRT")
 
 - [Chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work
 - [Percy](https://percy.io/) - all-in-one visual review platform
 - [Loki](https://loki.js.org/) - visual regression testing for Storybook
+
+### Accessibility
+
+- [A11y](https://a11yproject.com/) - The A11Y Project is a community-driven effort to make digital accessibility easier.
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [[Chrome Extension] WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 
 ### Contributing
 
