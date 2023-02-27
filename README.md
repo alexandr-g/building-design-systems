@@ -50,9 +50,12 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 ### Tools
 
-#### Styleguide
+- [Storybook](https://storybook.js.org/) - is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient.
 
-- [React Styleguidist](https://github.com/styleguidist/react-styleguidist) - is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.
+- [React Styleguidist](https://react-styleguidist.js.org/) - is a component development environment with a hot reloaded dev server and an isolated **React** component development environment with a living style guide. It lists component props, and editable usage examples based on Markdown files.
+
+- [Ladle](https://ladle.dev/) - develop and test your React stories faster
+
 
 #### Visual Regression Testing ("VRT")
 
