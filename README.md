@@ -30,15 +30,17 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 ### Examples
 
-- [Microsoft - FluentUI](https://developer.microsoft.com/en-us/fluentui/#/controls/web)
+- [Microsoft - "FluentUI"](https://developer.microsoft.com/en-us/fluentui/#/controls/web)
 
 - [🗃 Storybook](https://github.com/storybookjs/design-system)
 
-- [Airbnb - lunar](https://github.com/airbnb/lunar)
+- [Airbnb - "Lunar"](https://github.com/airbnb/lunar)
 
-- [Uber - baseweb](https://github.com/uber/baseweb)
+- [Uber - "Baseweb"](https://github.com/uber/baseweb)
 
-- [GitHub - primer](https://primer.style/css/)
+- [GitHub - "Primer"](https://primer.style/css/)
+
+- [Digital Ocean - "Walrus"](https://www.digitalocean.com/blog/introducing-walrus-digitaloceans-reimagined-design)
 
 ### Guides
 
