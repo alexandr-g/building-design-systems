@@ -32,16 +32,13 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 - [Microsoft - "FluentUI"](https://developer.microsoft.com/en-us/fluentui/#/controls/web)
 
-- [🗃 Storybook](https://github.com/storybookjs/design-system)
-
+- [Storybook - "Storybook"](https://github.com/storybookjs/design-system)
 - [Airbnb - "Lunar"](https://github.com/airbnb/lunar)
-
 - [Uber - "Baseweb"](https://github.com/uber/baseweb)
-
 - [GitHub - "Primer"](https://primer.style/css/)
-
 - [Digital Ocean - "Walrus"](https://www.digitalocean.com/blog/introducing-walrus-digitaloceans-reimagined-design)
 - [Khan Academy - "Wonder Blocks"](https://khan.github.io/wonder-blocks/)
+- [Shopify - "Polaris"](https://polaris.shopify.com/)
 
 ### Guides
 
@@ -53,14 +50,13 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 - [React Styleguidist](https://react-styleguidist.js.org/) - is a component development environment with a hot reloaded dev server and an isolated **React** component development environment with a living style guide. It lists component props, and editable usage examples based on Markdown files.
 
-- [Ladle](https://ladle.dev/) - develop and test your React stories faster
-
+- [Ladle](https://ladle.dev/) - develop and test your **React** stories faster
 
 #### Visual Regression Testing ("VRT")
 
 - [Chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work
 - [Percy](https://percy.io/) - all-in-one visual review platform
-- [Loki](https://loki.js.org/) - visual regression testing for Storybook;
+- [Loki](https://loki.js.org/) - visual regression testing for Storybook
 
 ### Contributing
 
