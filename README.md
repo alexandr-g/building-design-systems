@@ -16,8 +16,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 - [Examples](#examples)
 - [Guides](#guides)
 - [Tools](#tools)
-  - [Styleguide](#styleguide)
-  - [Testing](#testing)
+- [Testing](#visual-regression-testing-vrt)
 - [Contributing](#contributing)
 
 ### Articles
