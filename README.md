@@ -40,6 +40,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 - [Khan Academy - "Wonder Blocks"](https://khan.github.io/wonder-blocks/)
 - [Shopify - "Polaris"](https://polaris.shopify.com/)
 - [Adobe - "Spectrum"](https://spectrum.adobe.com/)
+- [Ant - "Ant Design"](https://ant.design/)
 
 ### Guides
 
