@@ -30,6 +30,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 
 ### Examples
 
+- [Material UI - "MUI"](https://mui.com/)
 - [Microsoft - "FluentUI"](https://developer.microsoft.com/en-us/fluentui/#/controls/web)
 - [Storybook - "Storybook"](https://github.com/storybookjs/design-system)
 - [Airbnb - "Lunar"](https://github.com/airbnb/lunar)
