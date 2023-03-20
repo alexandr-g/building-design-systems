@@ -60,6 +60,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 - [Chromatic](https://www.chromatic.com/) - chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work
 - [Percy](https://percy.io/) - all-in-one visual review platform
 - [Loki](https://loki.js.org/) - visual regression testing for Storybook
+- [Lost Pixel](https://lost-pixel.com/) - holistic visual testing for your Frontend; first class integration with Storybook
 
 ### Accessibility
 
