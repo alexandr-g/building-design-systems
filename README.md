@@ -43,6 +43,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 - [Ant - "Ant Design"](https://ant.design/)
 - [Atlassian - Atlassian Design System](https://atlassian.design/)
 - [SumUp - "Circuit UI"](https://circuit.sumup.com/)
+- [IBM - "Carbon Design System"](https://www.carbondesignsystem.com/)
 
 ### Guides
 
