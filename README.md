@@ -47,6 +47,7 @@ _☝ Note that this list is meant to be used for learning and researching purpos
 - [Kiwi - "Orbit"](https://orbit.kiwi/)
 - [Pinterest - "Gestalt"](https://gestalt.pinterest.systems/home)
 - [Twilio - "Paste"](https://paste.twilio.design/)
+- [Segment - "Evergreen"](https://evergreen.segment.com/)
 
 ### Guides
 
